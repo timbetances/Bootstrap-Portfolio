@@ -15,3 +15,5 @@ body{
 }
 .row{margin-right: -5px;
     margin-left: -5px;}
+    h1{padding-left: 90px;
+        color: teal;}
