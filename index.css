@@ -1,4 +1,17 @@
 .page-footer font-small blue {
     background: peachpuff;
-    
+
 }
+body{
+    background: darksalmon;
+}
+
+.container{
+    background: beige;
+}
+.footer{
+    box-sizing: content-box;
+    background: darkgrey;
+}
+.row{margin-right: -5px;
+    margin-left: -5px;}
